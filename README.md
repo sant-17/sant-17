@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Santiago García Herrera</h1>
+<h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
 - 📫 How to reach me **santiago.garciah17@gmail.com**
